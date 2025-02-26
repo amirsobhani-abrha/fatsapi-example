@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements.in
 #
-annotated-types==0.7.0
+annotated-types==0.7.123412341234
     # via pydantic
 anyio==4.4.0
     # via
